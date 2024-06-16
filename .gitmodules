@@ -4,3 +4,6 @@
 [submodule "ING2"]
 	path = ING2
 	url = https://github.com/thiago-laurence/Ingenieria-de-software-2.git
+[submodule "PS"]
+	path = PS
+	url = https://github.com/thiago-laurence/proyecto-de-software.git
