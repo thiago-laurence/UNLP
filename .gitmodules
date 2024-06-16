@@ -1,0 +1,3 @@
+[submodule "OO2"]
+	path = OO2
+	url = https://github.com/thiago-laurence/orientacion-a-objetos-2.git
