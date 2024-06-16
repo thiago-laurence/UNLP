@@ -1,3 +1,6 @@
 [submodule "OO2"]
 	path = OO2
 	url = https://github.com/thiago-laurence/orientacion-a-objetos-2.git
+[submodule "ING2"]
+	path = ING2
+	url = https://github.com/thiago-laurence/Ingenieria-de-software-2.git
